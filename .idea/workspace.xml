@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7849a608-5dfa-41c9-90c9-3bd9413fbb37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FirstCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/alexr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/alexr.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Settings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/YandexTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/findTransportDirection/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/findTransportDirection/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/findTransportDirection/TimetablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/findTransportDirection/TimetablePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FirstCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstCaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SecondCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SecondCaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Example.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FirstCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SecondCase.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/Settings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Settings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/YandexTests.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/findTransportDirection/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/findTransportDirection/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/findTransportDirection/TimetablePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/findTransportDirection/TimetablePage.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/drivers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -51,6 +49,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexr\IdeaProjects\Example\src\main\java" />
       <recent name="C:\Users\alexr\IdeaProjects\Example\src\main\resources\drivers" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -72,50 +71,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FirstCase">
-    <configuration name="FirstCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SecondCaseTest">
+    <configuration name="FirstCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Example" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstCase" />
+      <option name="MAIN_CLASS_NAME" value="FirstCaseTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstCase.durationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FirstCaseTest.findTheWay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Example" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstCase" />
-      <option name="METHOD_NAME" value="durationTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstCase.findTheWay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Example" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstCase" />
+      <option name="MAIN_CLASS_NAME" value="FirstCaseTest" />
       <option name="METHOD_NAME" value="findTheWay" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FirstCaseTest.tittleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Example" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SecondCase" />
+      <option name="MAIN_CLASS_NAME" value="FirstCaseTest" />
+      <option name="METHOD_NAME" value="tittleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Example" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SecondCaseTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondCase.findTheWay2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SecondCaseTest.unsuccessfulSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Example" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SecondCase" />
-      <option name="METHOD_NAME" value="findTheWay2" />
+      <option name="MAIN_CLASS_NAME" value="SecondCaseTest" />
+      <option name="METHOD_NAME" value="unsuccessfulSearch" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FirstCase" />
-        <item itemvalue="JUnit.FirstCase.durationTest" />
-        <item itemvalue="JUnit.SecondCase" />
-        <item itemvalue="JUnit.FirstCase.findTheWay" />
-        <item itemvalue="JUnit.SecondCase.findTheWay2" />
+        <item itemvalue="JUnit.SecondCaseTest" />
+        <item itemvalue="JUnit.SecondCaseTest.unsuccessfulSearch" />
+        <item itemvalue="JUnit.FirstCaseTest" />
+        <item itemvalue="JUnit.FirstCaseTest.findTheWay" />
+        <item itemvalue="JUnit.FirstCaseTest.tittleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +148,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

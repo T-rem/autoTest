@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 
-class FirstCase extends Settings {
+class FirstCaseTest extends Settings {
     private TimetablePage timetablePage;
     @Test
     void findTheWay() {

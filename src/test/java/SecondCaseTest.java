@@ -4,7 +4,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-class SecondCase  extends Settings{
+class SecondCaseTest extends Settings{
     @Test
     void unsuccessfulSearch() {
         HomePage homePage = PageFactory.initElements(driver, HomePage.class);
