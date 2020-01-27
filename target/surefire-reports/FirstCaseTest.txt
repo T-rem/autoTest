@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: FirstCaseTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 57.845 s - in FirstCaseTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 55.153 s - in FirstCaseTest
