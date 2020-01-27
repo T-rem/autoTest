@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7849a608-5dfa-41c9-90c9-3bd9413fbb37" name="Default Changelist" comment="" />
+    <list default="true" id="7849a608-5dfa-41c9-90c9-3bd9413fbb37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FirstCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/alexr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/alexr.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/YandexTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/findTransportDirection/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/findTransportDirection/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/findTransportDirection/TimetablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/findTransportDirection/TimetablePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Settings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Settings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/YandexTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/findTransportDirection/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/findTransportDirection/HomePage.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +29,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WiIiONpVZWqypEOJ9er7HumCLU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/drivers" />
@@ -30,13 +50,13 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alexr\IdeaProjects\Example\src\main\resources\drivers" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alexr\IdeaProjects\Example\src\main\resources\drivers" />
     </key>
   </component>
@@ -52,50 +72,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.YandexTests.durationTest">
-    <configuration name="DcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FirstCase">
+    <configuration name="FirstCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Example" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DcTest" />
+      <option name="MAIN_CLASS_NAME" value="FirstCase" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DcTest.signUpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FirstCase.durationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Example" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DcTest" />
-      <option name="METHOD_NAME" value="signUpTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="YandexTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Example" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="YandexTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="YandexTests.durationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Example" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="YandexTests" />
+      <option name="MAIN_CLASS_NAME" value="FirstCase" />
       <option name="METHOD_NAME" value="durationTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YandexTests.findTheWay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FirstCase.findTheWay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Example" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="YandexTests" />
+      <option name="MAIN_CLASS_NAME" value="FirstCase" />
       <option name="METHOD_NAME" value="findTheWay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Example" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SecondCase" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondCase.findTheWay2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Example" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SecondCase" />
+      <option name="METHOD_NAME" value="findTheWay2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.YandexTests.durationTest" />
-        <item itemvalue="JUnit.YandexTests.findTheWay" />
-        <item itemvalue="JUnit.YandexTests" />
-        <item itemvalue="JUnit.DcTest" />
-        <item itemvalue="JUnit.DcTest.signUpTest" />
+        <item itemvalue="JUnit.FirstCase" />
+        <item itemvalue="JUnit.FirstCase.durationTest" />
+        <item itemvalue="JUnit.SecondCase" />
+        <item itemvalue="JUnit.FirstCase.findTheWay" />
+        <item itemvalue="JUnit.SecondCase.findTheWay2" />
       </list>
     </recent_temporary>
   </component>
@@ -123,5 +143,16 @@
       <updated>1579626114506</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
